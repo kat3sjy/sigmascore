@@ -1,2 +1,0 @@
-# sigmascore
-sigma
